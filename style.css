@@ -1,0 +1,79 @@
+body{
+	background-color: #000;
+}
+#caracteristique{
+	color: #FFFFFF ;
+	width: 500px;
+	border: 1px solid #000 ;
+	margin-left: 500px; 
+}
+
+#nameofcar{
+	color: #FFFFFF ;
+	font-size: 35px;
+	width: 500px;
+	border: 1px solid #000 ;
+	margin-left: 450px; 
+}
+
+#tit{
+	color: #FFFFFF;
+	font-size: 50px;
+	width: 300px;
+	border: 1px solid #000 ;
+	margin-left: 500px;
+}
+
+.couleur{
+	color: #FFFFFF;
+	width: 200px;
+	border: 1px solid #000 ;
+	margin-left: 500px; 
+	height: 20px;
+
+}
+
+#photo{
+	color: #FFFFFF;
+	width: 500px;
+	border: 1px solid #000 ;
+	margin-left: 300px; 
+
+}
+
+#rouge{
+	width: 10px;
+	height: 10px;
+	background-color: red;
+	border-radius: 50%;
+}
+
+
+
+#bleu{
+	width: 10px;
+	height: 10px;
+	background-color: #03224c;
+	border-radius: 50%;
+}
+
+#gris{
+	width: 10px;
+	height: 10px;
+	background-color: #454545;
+	border-radius: 50%;
+}
+
+#jaune{
+	width: 10px;
+	height: 10px;
+	background-color: #FFFF00;
+	border-radius: 50%;
+}
+
+#buy{
+	width: 300px;
+	border: 1px solid #000 ;
+	margin-left: 1150px;
+	
+}
